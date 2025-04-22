@@ -47,8 +47,6 @@ A smart and simple **Movie Recommendation System** built with **Streamlit** and 
 movie-recommender/
 │
 ├── app.py                 # Streamlit app code
-├── movies.pkl             # Processed movie dataframe
-├── cosine_sim.pkl         # Pre-computed similarity matrix
 ├── requirements.txt       # All Python dependencies
 └── README.md              # You're reading it!
 ```
@@ -60,7 +58,7 @@ movie-recommender/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/movie-recommender.git
+git clone https://github.com/Pranaykumar4344/movie-recommender.git
 cd movie-recommender
 ```
 
@@ -100,7 +98,7 @@ Originally available from Kaggle:
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
+**J Pranay Kumar **  
 📧 JPranaykumar1205@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/pranay-kumar-5897a828a/)
 
