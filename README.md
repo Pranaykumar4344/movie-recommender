@@ -47,6 +47,7 @@ A smart and simple **Movie Recommendation System** built with **Streamlit** and 
 movie-recommender/
 │
 ├── app.py                 # Streamlit app code
+├── movie_recommendation_system_model.py # Trained Model
 ├── requirements.txt       # All Python dependencies
 └── README.md              # You're reading it!
 ```
