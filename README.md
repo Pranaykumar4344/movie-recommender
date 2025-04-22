@@ -18,8 +18,8 @@ A smart and simple **Movie Recommendation System** built with **Streamlit** and 
 ---
 
 ## 🖼️ UI Preview
+![UI Preview of Movie Recommendation System](image.png)
 
-*(Add your app screenshot here)*
 
 ---
 
@@ -101,8 +101,8 @@ Originally available from Kaggle:
 ## 🙋‍♂️ Author
 
 **Your Name**  
-📧 your.email@example.com  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 JPranaykumar1205@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/pranay-kumar-5897a828a/)
 
 ---
 
@@ -110,6 +110,6 @@ Originally available from Kaggle:
 
 If you found this helpful:
 
-🌟 Give it a star on [GitHub](https://github.com/YOUR_USERNAME/movie-recommender)  
+🌟 Give it a star on [GitHub](https://github.com/Pranaykumar4344/movie-recommender)  
 📣 Share with your friends  
 ✏️ Fork and improve it!
